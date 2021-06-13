@@ -6,3 +6,15 @@ Data also consists the duration and totals stops during every flights.
 Total rows in data are 10683 along with 11 columns.
 4 models have been applied on the dataset after the feature engineering and data preprocessing. Out of linear regression, decision tree, random forests and KNearest Regressor.
 Out of these, Random forests performed and the besta nd hypertuning is performed on it.
+
+#### Libraries Used:
+Pandas, Numpy, Matplotlib, Seaborn, Plotly
+
+#### Programing Language
+Python
+
+#### IDE Used
+Jupyter Notebook
+
+#### Algorthms Used
+Label Encoder, One Hot encoder, Power Transformer, Randomised Search CV, Linear regressor, Decision Tree, Random Forests, KNearest Regressor, Mutual Info classif
